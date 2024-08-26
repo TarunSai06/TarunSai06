@@ -14,9 +14,9 @@ My expertise spans across various Java technologies, and I'm constantly learning
 ## 🛠️ Skills & Tools
 
 **Languages & Frameworks**
-**Java**: Core Java, Java SE, Java EE
-**Frameworks**: Spring Boot, Microservices, Hibernate, JPA, Apache Maven
-**Database**: MySQL, PostgreSQL
+- **Java**: Core Java, Java SE, Java EE
+- **Frameworks**: Spring Boot, Microservices, Hibernate, JPA, Apache Maven
+- **Database**: MySQL, PostgreSQL
 
 ### Tools & Platforms
 - **Version Control**: Git, GitHub, BitBucket
